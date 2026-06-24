@@ -16,20 +16,28 @@ def seed_matches():
         existing = db.query(Match).filter(Match.id == m["id"]).first()
 
         if existing:
-            continue
-
-        match = Match(
-            id=m["id"],
-            group=m["group"],
-            home_team=m["home_team"],
-            away_team=m["away_team"],
-            date=m["date"],
-            status=m["status"],
-            home_score=m["home_score"],
-            away_score=m["away_score"]
-        )
-
-        db.add(match)
+            # Actualiza los campos del partido ya existente.
+            # Asi, cuando actualizas un resultado en matches.json
+            # (de scheduled a finished con marcador), el cambio SI se aplica.
+            existing.group = m["group"]
+            existing.home_team = m["home_team"]
+            existing.away_team = m["away_team"]
+            existing.date = m["date"]
+            existing.status = m["status"]
+            existing.home_score = m["home_score"]
+            existing.away_score = m["away_score"]
+        else:
+            match = Match(
+                id=m["id"],
+                group=m["group"],
+                home_team=m["home_team"],
+                away_team=m["away_team"],
+                date=m["date"],
+                status=m["status"],
+                home_score=m["home_score"],
+                away_score=m["away_score"],
+            )
+            db.add(match)
 
     db.commit()
     db.close()

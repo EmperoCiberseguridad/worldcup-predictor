@@ -445,9 +445,9 @@
     "home_team": "Portugal",
     "away_team": "Uzbekistan",
     "date": "2026-06-22",
-    "status": "scheduled",
-    "home_score": null,
-    "away_score": null
+    "status": "finished",
+    "home_score": 5,
+    "away_score": 0
  },
  {
    "id":46,
@@ -455,9 +455,9 @@
    "home_team": "England",
    "away_team": "Ghana",
    "date": "2026-06-23",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 0
 },
 {
    "id":47,
@@ -465,16 +465,136 @@
    "home_team": "Panama",
    "away_team": "Croatia",
    "date": "2026-06-23",
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 1
+},
+{
+   "id":48,
+   "group": "K",
+   "home_team": "Colombia",
+   "away_team": "DR Congo",
+   "date": "2026-06-23",
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 0
+},
+{
+   "id":49,
+   "group": "B",
+   "home_team": "Switzerland",
+   "away_team": "Canada",
+   "date": "2026-06-24",
    "status": "scheduled",
    "home_score": null,
    "away_score": null
 },
 {
-   "id":49,
-   "group": "K",
-   "home_team": "Colombia",
-   "away_team": "DR Congo",
-   "date": "2026-06-23",
+   "id":50,
+   "group": "B",
+   "home_team": "Bosnia and Herzegovina",
+   "away_team": "Qatar",
+   "date": "2026-06-24",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":51,
+   "group": "C",
+   "home_team": "Scotland",
+   "away_team": "Brazil",
+   "date": "2026-06-24",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":52,
+   "group": "C",
+   "home_team": "Morocco",
+   "away_team": "Haiti",
+   "date": "2026-06-24",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":53,
+   "group": "A",
+   "home_team": "Czechia",
+   "away_team": "Mexico",
+   "date": "2026-06-24",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":54,
+   "group": "A",
+   "home_team": "South Africa",
+   "away_team": "South Korea",
+   "date": "2026-06-24",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":55,
+   "group": "E",
+   "home_team": "Curacao",
+   "away_team": "Cote d'Ivoire",
+   "date": "2026-06-25",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":56,
+   "group": "E",
+   "home_team": "Ecuador",
+   "away_team": "Germany",
+   "date": "2026-06-25",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":57,
+   "group": "F",
+   "home_team": "Japan",
+   "away_team": "Sweden",
+   "date": "2026-06-25",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":58,
+   "group": "F",
+   "home_team": "Tunisia",
+   "away_team": "Netherlands",
+   "date": "2026-06-25",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":59,
+   "group": "D",
+   "home_team": "Turkiye",
+   "away_team": "United States",
+   "date": "2026-06-25",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":60,
+   "group": "D",
+   "home_team": "Paraguay",
+   "away_team": "Australia",
+   "date": "2026-06-25",
    "status": "scheduled",
    "home_score": null,
    "away_score": null
