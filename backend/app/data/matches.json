@@ -598,5 +598,125 @@
    "status": "scheduled",
    "home_score": null,
    "away_score": null
+},
+{
+   "id":61,
+   "group": "I",
+   "home_team": "Norway",
+   "away_team": "France",
+   "date": "2026-06-26",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":62,
+   "group": "I",
+   "home_team": "Senegal",
+   "away_team": "Iraq",
+   "date": "2026-06-26",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":63,
+   "group": "H",
+   "home_team": "Cape Verde",
+   "away_team": "Saudi Arabia",
+   "date": "2026-06-26",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":64,
+   "group": "H",
+   "home_team": "Uruguay",
+   "away_team": "Spain",
+   "date": "2026-06-26",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":65,
+   "group": "G",
+   "home_team": "Egypt",
+   "away_team": "Iran",
+   "date": "2026-06-26",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":66,
+   "group": "G",
+   "home_team": "New Zealand",
+   "away_team": "Belgium",
+   "date": "2026-06-",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":67,
+   "group": "L",
+   "home_team": "Panama",
+   "away_team": "England",
+   "date": "2026-06-27",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":68,
+   "group": "L",
+   "home_team": "Croatia",
+   "away_team": "Ghana",
+   "date": "2026-06-27",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":69,
+   "group": "K",
+   "home_team": "Colombia",
+   "away_team": "Portugal",
+   "date": "2026-06-27",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":70,
+   "group": "K",
+   "home_team": "DR Congo",
+   "away_team": "Uzbekistan",
+   "date": "2026-06-27",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":71,
+   "group": "J",
+   "home_team": "Algeria",
+   "away_team": "Austria",
+   "date": "2026-06-27",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
+},
+{
+   "id":72,
+   "group": "J",
+   "home_team": "Jordan",
+   "away_team": "Argentina",
+   "date": "2026-06-27",
+   "status": "scheduled",
+   "home_score": null,
+   "away_score": null
 }
 ]
