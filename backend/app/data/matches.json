@@ -485,9 +485,9 @@
    "home_team": "Switzerland",
    "away_team": "Canada",
    "date": "2026-06-24",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 2,
+   "away_score": 1
 },
 {
    "id":50,
@@ -495,9 +495,9 @@
    "home_team": "Bosnia and Herzegovina",
    "away_team": "Qatar",
    "date": "2026-06-24",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 3,
+   "away_score": 1
 },
 {
    "id":51,
@@ -505,9 +505,9 @@
    "home_team": "Scotland",
    "away_team": "Brazil",
    "date": "2026-06-24",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 3
 },
 {
    "id":52,
@@ -515,9 +515,9 @@
    "home_team": "Morocco",
    "away_team": "Haiti",
    "date": "2026-06-24",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 4,
+   "away_score": 2
 },
 {
    "id":53,
@@ -525,9 +525,9 @@
    "home_team": "Czechia",
    "away_team": "Mexico",
    "date": "2026-06-24",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 3
 },
 {
    "id":54,
@@ -535,9 +535,9 @@
    "home_team": "South Africa",
    "away_team": "South Korea",
    "date": "2026-06-24",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 0
 },
 {
    "id":55,
@@ -545,9 +545,9 @@
    "home_team": "Curacao",
    "away_team": "Cote d'Ivoire",
    "date": "2026-06-25",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 2
 },
 {
    "id":56,
@@ -555,9 +555,9 @@
    "home_team": "Ecuador",
    "away_team": "Germany",
    "date": "2026-06-25",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 2,
+   "away_score": 1
 },
 {
    "id":57,
