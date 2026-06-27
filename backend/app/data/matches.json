@@ -633,7 +633,7 @@
    "id":64,
    "group": "H",
    "home_team": "Uruguay",
-   "away_team": "Spain",
+   "away_team": "Spain",   
    "date": "2026-06-26",
    "status": "finished",
    "home_score": 0,
@@ -654,10 +654,10 @@
    "group": "G",
    "home_team": "New Zealand",
    "away_team": "Belgium",
-   "date": "2026-06-",
+   "date": "2026-06-26",
    "status": "finished",
-   "home_score": 0,
-   "away_score": 3
+   "home_score": 1,
+   "away_score": 5
 },
 {
    "id":67,
