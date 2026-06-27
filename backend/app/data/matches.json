@@ -565,9 +565,9 @@
    "home_team": "Japan",
    "away_team": "Sweden",
    "date": "2026-06-25",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 1
 },
 {
    "id":58,
@@ -575,9 +575,9 @@
    "home_team": "Tunisia",
    "away_team": "Netherlands",
    "date": "2026-06-25",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 3
 },
 {
    "id":59,
@@ -585,9 +585,9 @@
    "home_team": "Turkiye",
    "away_team": "United States",
    "date": "2026-06-25",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 3,
+   "away_score": 2
 },
 {
    "id":60,
@@ -595,9 +595,9 @@
    "home_team": "Paraguay",
    "away_team": "Australia",
    "date": "2026-06-25",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 0
 },
 {
    "id":61,
@@ -605,9 +605,9 @@
    "home_team": "Norway",
    "away_team": "France",
    "date": "2026-06-26",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 4
 },
 {
    "id":62,
@@ -615,9 +615,9 @@
    "home_team": "Senegal",
    "away_team": "Iraq",
    "date": "2026-06-26",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 5,
+   "away_score": 0
 },
 {
    "id":63,
@@ -625,9 +625,9 @@
    "home_team": "Cape Verde",
    "away_team": "Saudi Arabia",
    "date": "2026-06-26",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 0
 },
 {
    "id":64,
@@ -635,9 +635,9 @@
    "home_team": "Uruguay",
    "away_team": "Spain",
    "date": "2026-06-26",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 1
 },
 {
    "id":65,
@@ -645,9 +645,9 @@
    "home_team": "Egypt",
    "away_team": "Iran",
    "date": "2026-06-26",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 1
 },
 {
    "id":66,
@@ -655,9 +655,9 @@
    "home_team": "New Zealand",
    "away_team": "Belgium",
    "date": "2026-06-",
-   "status": "scheduled",
-   "home_score": null,
-   "away_score": null
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 3
 },
 {
    "id":67,
